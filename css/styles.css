@@ -1,0 +1,51 @@
+
+#main{
+    background-image: url("../images/city.jpg");
+    width: 100%;
+    margin-top: 0;
+    height: 650px;
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#first{
+    margin-left: 24%;
+    margin-top: 20px;
+    padding: 5px;
+    width: 330px;
+    height: 200px;
+    text-align: center;
+    background-color: #C4C4C4;
+    border-radius: 35%;
+    
+}
+
+#circle img{
+   margin-left: 20%;
+   width: 33%;
+   height: 130px;
+   margin-top: -60px;
+     
+}
+
+
+h1, h2, h3, #date{
+    font-size: 2em;
+    color: #1F4B80;
+    font-weight: bolder;
+}
+
+#at{
+    margin-left: 32%;   
+}
+#at h1, #time p{
+font-size: 50px;
+color: black;
+}
+
+#time{
+    margin-left: 32%; 
+    margin-top: -20px;
+}
+
